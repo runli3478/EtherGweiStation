@@ -3,14 +3,13 @@
 A Telegram Bot that sends you the latest gas price, swap fee in Ethereum Networks 
 Current Supported Networks: ETH ARB OP (more to come soon)
 
-Feel free to support me in the future!
+# API Requirements
+- Create your telegram bot and get the API Key using BotFather
+- Create your infura API key by registering an account @ infura.io
+- Create your OPTIMISM_API_KEY by registering an account @ optimistic.etherscan.io
+- Create your ARBISCAN_API_KEY by registering an account @ arbiscan.io
 
-# Create your telegram bot and get the API Key using BotFather
-# Create your infura API key by registering an account @ infura.io
-# Create your OPTIMISM_API_KEY by registering an account @ optimistic.etherscan.io
-# Create your ARBISCAN_API_KEY by registering an account @ arbiscan.io
-
-To run main.py:
+# To run main.py:
 
 a) Please make sure that you have installed the libraries stated below:
   1) pip install web3
@@ -24,3 +23,7 @@ b) Create a .env file to input your API keys:
   4) BOT_TOKEN=''
 
 c) Run the main.py in your terminal
+
+Feel free to support me in the future!
+
+DONATION ADDRESS (ETH): 0x4612f6997fFd8a81E0E4CFC8Cdb62796d86CB082
